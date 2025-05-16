@@ -1,0 +1,54 @@
+=====
+Job ID:1
+Job Title:Engineer
+Category:Cybersecurity
+Pay:$4000 to $6000
+Job Type:Full Time (Junior)
+Min Education:Bachelors
+Years of Experience required:2
+Company:MS Pte Ltd
+Technical skills required:Python, Cisco Firepower, Symantec Endpoint Protection, NIST Cyber Security Framework, Pen Testing, IT Security Audit
+Managerial skills required:Risk management
+Additional Job Description:Work with vendors to conduct security assessments and penetration tests. Identify security gaps, perform threat risk assessments in current setup and propose mitigating measures. Work with IT infrastructure team to evaluate, implement and enhance the network perimeter security, endpoint security, SIEM, secured remote access, MFA, Identity Access Management and Privileged Access Management.
+Company Description:Ms Pte Ltd is IT Integration firm with offices in Singapore, Indonesia and Malaysia. We have more than 200 staff serving clients from all around the region.
+Company URL:www.mscompany.com
+=====
+Job ID:2
+Job Title:Project Manager
+Category:Software Engineering
+Pay:$8000 to $10000
+Job Type:Full time (Senior)
+Min Education:Masters
+Years of Experience required:6
+Company:Pear Soft
+Technical skills required:Python, Java, HTML, CSS
+Managerial skills required:Product management
+Additional Job Description:Lead the development and execution of product strategies. Oversee cross-functional teams to ensure on-time delivery and client satisfaction.
+Company Description:Pear Soft is a global technology company specializing in custom software development and IT consulting. With offices in New York, London, and Tokyo, Pear Soft delivers innovative solutions to businesses worldwide.
+=====
+Job ID:3
+Job Title:Data Analyst
+Category:Software Engineering
+Pay:$2500 to $3500
+Job Type:Part time
+Min Education:Diploma
+Years of Experience required:0
+Company:XYZ Co
+Technical skills required:Excel, SQL, Data Visualization, Python
+Managerial skills required:Analytical thinking
+Additional Job Description:Assist in analyzing and interpreting data for clients. Provide reports, visualizations, and insights to aid in decision-making.
+Company Description:XYZ Co is a leading data analytics firm with over 10 years of experience in providing actionable insights for businesses in retail, healthcare, and finance.
+=====
+Job ID:4
+Job Title:AI Engineer
+Category:Software Engineering
+Pay:$5000 to $7000
+Job Type:Full time (Junior)
+Min Education:Bachelors
+Years of Experience required:3
+Company:VisionSoft
+Technical skills required:Python, TensorFlow, Machine Learning, Natural Language Processing
+Managerial skills required:Collaboration and teamwork
+Additional Job Description:Assist in the development and deployment of AI models for predictive analytics. Collaborate with the data science team to improve algorithms and optimize models for real-world applications.
+Company Description:VisionSoft is a leading provider of AI and machine learning solutions, helping companies across various industries streamline operations through advanced technology.
+=====

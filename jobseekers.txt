@@ -1,0 +1,3 @@
+Name,Age,Email,Education,Field of Study,Experience,Skills,Additional Skills,Status
+James Lim,22,jameslim@gmail.com,Bachelors,Cybersecurity,0,[Python,Cisco Firewall,Pen Testing,None,Pending
+Uncle Roger,45,uncle.roger@comedy.com,Masters,Comedy,20,Stand-up Comedy; Improvisation; Public Speaking,Team Management; Event Planning,Approved
